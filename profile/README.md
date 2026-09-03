@@ -8,7 +8,7 @@
 
 Ofrecemos soluciones tecnológicas modernas, enfocadas en la creación de aplicaciones web y móviles para pequeñas y medianas empresas que buscan digitalizar sus procesos, automatizar tareas o mejorar su presencia en línea.
 
-[Misión](#nuestra-misión) • [Servicios](#nuestros-servicios) • [Stack Tecnológico](#nuestro-arsenal-tecnológico) • [Contacto](#contacto)
+[Misión](#-nuestra-misión-y-visión) • [Servicios](#-nuestros-servicios) • [Stack Tecnológico](#-nuestro-arsenal-tecnológico) • [Contacto](#-únete-a-la-conversación)
 
 </div>
 
@@ -88,7 +88,7 @@ Seleccionamos las mejores herramientas para garantizar un rendimiento óptimo, s
 
 En **ZeroStack** creemos que el desarrollo de software no tiene por qué ser aburrido. Por eso, en cada línea de código nos acompañan nuestras mascotas, que representan el espíritu y la cultura de nuestro equipo:
 
-<img src="../assets/presentation-pet.gif" width="50%" alt="ZeroStack Banner" />
+<img src="../assets/presentation-pet.gif" width="50%" alt="ZeroStack pets" />
 
 - 🐉 **Zero (El Tecno-Alebrije)**
 
