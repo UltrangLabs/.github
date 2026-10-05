@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Bienvenido a ZeroStack
+# 🚀 Bienvenido a Ultrang
 
 **Construimos lo que imaginas.**
 
-<img src="../assets/banner.jpg" width="auto" height="250px" alt="ZeroStack Banner" />
+<img src="../assets/banner.png" width="auto" height="250px" alt="Ultrang Banner" />
 
 Ofrecemos soluciones tecnológicas modernas, enfocadas en la creación de aplicaciones web y móviles para pequeñas y medianas empresas que buscan digitalizar sus procesos, automatizar tareas o mejorar su presencia en línea.
 
@@ -79,26 +79,26 @@ Seleccionamos las mejores herramientas para garantizar un rendimiento óptimo, s
 
 ## 🚀 Proyectos Destacados
 
-- 📊 **[PocketCap](https://github.com/ZeroStackDevs/movile-control-expenses):** Aplicación móvil de gestión de gastos.
+- 📊 **[PocketCap](https://github.com/Ultrang/movile-control-expenses):** Aplicación móvil de gestión de gastos.
 - 🏃 **RunnerQuest:** Aplicación gamificada de actividad física con evolución de mascotas.
 
 ---
 
 ## 🤖 Nuestras Mascotas
 
-En **ZeroStack** creemos que el desarrollo de software no tiene por qué ser aburrido. Por eso, en cada línea de código nos acompañan nuestras mascotas, que representan el espíritu y la cultura de nuestro equipo:
+En **Ultrang** creemos que el desarrollo de software no tiene por qué ser aburrido. Por eso, en cada línea de código nos acompañan nuestras mascotas, que representan el espíritu y la cultura de nuestro equipo:
 
-<img src="../assets/presentation-pet.gif" width="50%" alt="ZeroStack pets" />
+<img src="../assets/presentation-pet.gif" width="50%" alt="Ultrang pets" />
 
-- 🐉 **Zero (El Tecno-Alebrije)**
+- 🐉 **Max (El Tecno-Alebrije)**
 
-  El es analítico, estructurado y un poco obsesivo con el código limpio. Es la mente arquitectónica; le encanta diseñar bases de datos robustas y asegurar que la lógica del sistema sea indestructible. Su pasatiempo favorito es cazar _bugs_ complejos en la madrugada y refactorizar código heredado.
+  Él es analítico, estructurado y un poco obsesivo con el código limpio. Es la mente arquitectónica; le encanta diseñar bases de datos robustas y asegurar que la lógica del sistema sea indestructible. Su pasatiempo favorito es cazar _bugs_ complejos en la madrugada y refactorizar código heredado.
 
-<!--
-- ☁️🐈 **Stack (El Gato-Nube Computacional)**
-  - **Personalidad:** Ágil, sigiloso y siempre relajado. Flota sin esfuerzo entre servidores. Representa la velocidad de nuestros despliegues y la fluidez visual de nuestras aplicaciones móviles y web.
-  - **Pasatiempo:** Tomar siestas sobre teclados cálidos mientras supervisa que los contenedores de Docker se ejecuten sin errores.
--->
+- ☁️🐈 **Kiu (El Gato-Nube Computacional)**
+  
+  **Personalidad:** Ágil, sigiloso y siempre relajado. Flota sin esfuerzo entre servidores. Representa la velocidad de nuestros despliegues y la fluidez visual de nuestras aplicaciones móviles y web.
+  
+  **Pasatiempo:** Tomar siestas sobre teclados cálidos mientras supervisa que los contenedores de Docker se ejecuten sin errores.
 
 ---
 
@@ -108,7 +108,7 @@ En **ZeroStack** creemos que el desarrollo de software no tiene por qué ser abu
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zerostack.devs@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zerostacksoftware/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@ultrang.dev)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ultrang.dev/)
   
 </div>
