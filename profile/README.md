@@ -88,11 +88,13 @@ Seleccionamos las mejores herramientas para garantizar un rendimiento óptimo, s
 
 En **Ultrang** creemos que el desarrollo de software no tiene por qué ser aburrido. Por eso, en cada línea de código nos acompañan nuestras mascotas, que representan el espíritu y la cultura de nuestro equipo:
 
-<img src="../assets/presentation-pet.gif" width="50%" alt="Ultrang pets" />
+<img src="../assets/max.png" width="50%" alt="Ultrang pets" />
 
 - 🐉 **Max (El Tecno-Alebrije)**
 
   Él es analítico, estructurado y un poco obsesivo con el código limpio. Es la mente arquitectónica; le encanta diseñar bases de datos robustas y asegurar que la lógica del sistema sea indestructible. Su pasatiempo favorito es cazar _bugs_ complejos en la madrugada y refactorizar código heredado.
+
+<img src="../assets/kiu.jpg" width="50%" alt="Ultrang pets" />
 
 - ☁️🐈 **Kiu (El Gato-Nube Computacional)**
   
