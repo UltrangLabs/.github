@@ -79,8 +79,17 @@ Seleccionamos las mejores herramientas para garantizar un rendimiento óptimo, s
 
 ## 🚀 Proyectos Destacados
 
+- 🏃 **[Tracknner](https://github.com/UltrangLabs/Tracknner):** Aplicación gamificada de actividad física con evolución de mascotas.
 - 📊 **[PocketCap](https://github.com/Ultrang/movile-control-expenses):** Aplicación móvil de gestión de gastos.
-- 🏃 **RunnerQuest:** Aplicación gamificada de actividad física con evolución de mascotas.
+
+<p align="center">
+  <a href="https://github.com/UltrangLabs/movile-control-expenses">
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UltrangLabs&repo=movile-control-expenses&theme=algolia&show_icons=true"/>
+  </a>
+  <a href="https://github.com/UltrangLabs/Tracknner">
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UltrangLabs&repo=Tracknner&theme=algolia&show_icons=true"/>
+  </a>
+</p>
 
 ---
 
@@ -97,9 +106,9 @@ En **Ultrang** creemos que el desarrollo de software no tiene por qué ser aburr
 <img src="../assets/kiu.jpg" width="50%" alt="Ultrang pets" />
 
 - ☁️🐈 **Kiu (El Gato-Nube Computacional)**
-  
+
   **Personalidad:** Ágil, sigiloso y siempre relajado. Flota sin esfuerzo entre servidores. Representa la velocidad de nuestros despliegues y la fluidez visual de nuestras aplicaciones móviles y web.
-  
+
   **Pasatiempo:** Tomar siestas sobre teclados cálidos mientras supervisa que los contenedores de Docker se ejecuten sin errores.
 
 ---
